@@ -5,13 +5,13 @@ const workSlides = {
       images: [
         {
           title: "ZIRA",
-          path: "/ZiraPIC.png",
+          path: "/ZIRA.png",
           git: "https://github.com/azimpa/Zira.git",
           live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
         },
         {
           title: "RIDE WITH ME",
-          path: "/RWMPIC.png",
+          path: "/RWM.png",
           git: "https://github.com/azimpa/RWMProject.git",
           live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
         },
@@ -32,7 +32,7 @@ const workSlides = {
       images: [
         {
           title: "TODO",
-          path: "/todo.png",
+          path: "/Todo.png",
           git: "https://github.com/azimpa/Todo.git",
         },
         {
