@@ -5,25 +5,25 @@ const workSlides = {
       images: [
         {
           title: "ZIRA",
-          path: "/voxy.png",
+          path: "/ZIRA.png",
           git: "https://github.com/azimpa/Zira.git",
           live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
         },
         {
           title: "RIDE WITH ME",
-          path: "/backpackerz.png",
-          git: "https://github.com/azimpa/RWMProject.git",
-          live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
+          path: "/RWM.png",
+          git: "https://github.com/azimpa/Ride-With-Me.git",
+          live: "https://rwm.asimpa.online/",
         },
         {
           title: "NETFLIX CLONE",
-          path: "/ansil.png",
+          path: "/Netflix.png",
           git: "https://github.com/azimpa/React-Netflix.git",
           live: "https://react-netflix-lime-chi.vercel.app/",
         },
         {
           title: "OLX CLONE",
-          path: "/thumb3.jpg",
+          path: "/OLX.png",
           git: "https://github.com/azimpa/React-Olx.git",
         },
       ],
@@ -32,18 +32,18 @@ const workSlides = {
       images: [
         {
           title: "TODO",
-          path: "/todo.png",
+          path: "/Todo.png",
           git: "https://github.com/azimpa/Todo.git",
         },
         {
           title: "PAPPAD",
-          path: "/adidas.png",
+          path: "/Pappad.png",
           git: "https://github.com/azimpa/Pappad.git",
           live: "https://pappad.vercel.app/",
         },
         {
           title: "PORTFOLIO",
-          path: "/thumb4.jpg",
+          path: "/Portfolio.png",
           git: "https://github.com/azimpa/Portfolio.git",
         },
       ],
