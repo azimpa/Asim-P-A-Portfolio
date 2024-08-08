@@ -12,8 +12,8 @@ const workSlides = {
         {
           title: "RIDE WITH ME",
           path: "/RWM.png",
-          git: "https://github.com/azimpa/RWMProject.git",
-          live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
+          git: "https://github.com/azimpa/Ride-With-Me.git",
+          live: "https://rwm.asimpa.online/",
         },
         {
           title: "NETFLIX CLONE",
