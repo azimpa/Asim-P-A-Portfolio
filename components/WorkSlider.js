@@ -19,7 +19,6 @@ const workSlides = {
           title: "NETFLIX CLONE",
           path: "/Netflix.png",
           git: "https://github.com/azimpa/React-Netflix.git",
-          live: "https://react-netflix-lime-chi.vercel.app/",
         },
         {
           title: "OLX CLONE",
@@ -39,7 +38,6 @@ const workSlides = {
           title: "PAPPAD",
           path: "/Pappad.png",
           git: "https://github.com/azimpa/Pappad.git",
-          live: "https://pappad.vercel.app/",
         },
         {
           title: "PORTFOLIO",
