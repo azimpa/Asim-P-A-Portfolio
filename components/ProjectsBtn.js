@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+
 import Link from "next/link";
 
 import { AiOutlineDownload  } from "react-icons/ai";
@@ -7,8 +8,8 @@ const ProjectsBtn = () => {
   return (
     <div className="mx-auto xl:mx-0 relative">
       <a
-        href="/Asim CV.pdf"
-        download="Asim CV.pdf"
+        href="/Asim's Resume V6.pdf"
+        download="Asim's Resume V6.pdf"
         className="w-[180px] h-[180px] bg-circleStar bg-cover bg-center bg-no-repeat group flex justify-center items-center"
       >
         <Image
