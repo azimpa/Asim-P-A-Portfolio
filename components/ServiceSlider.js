@@ -31,7 +31,7 @@ const serviceData = [
     icon: <SiDjango />,
     title: "DJANGO",
     description:
-      "Efficient web application development powered by Django's robust backend framework",
+      "Efficient web development powered by Django's robust backend framework",
     path: "https://www.djangoproject.com/",
   },
   {
