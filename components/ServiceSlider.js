@@ -4,7 +4,6 @@ import { RxArrowTopRight } from "react-icons/rx";
 import {
   RiHtml5Line,
   RiCss3Line,
-  RiBootstrapLine,
   RiReactjsLine,
 } from "react-icons/ri";
 import { TbBrandPython } from "react-icons/tb";
@@ -28,6 +27,13 @@ const serviceData = [
     path: "https://react.dev/",
   },
   {
+    icon: <TbBrandPython />,
+    title: "DJANGO",
+    description:
+      "Rapid responsive website development ensured with Bootstrap framework.",
+    path: "https://getbootstrap.com/docs/4.1/getting-started/introduction/",
+  },
+  {
     icon: <RiHtml5Line />,
     title: "HTML",
     description:
@@ -40,13 +46,6 @@ const serviceData = [
     description:
       "Flexibility and creativity craft stunning, dynamic layouts effortlessly using CSS.",
     path: "https://www.w3schools.com/cssref/index.php",
-  },
-  {
-    icon: <RiBootstrapLine />,
-    title: "BOOTSTRAP",
-    description:
-      "Rapid responsive website development ensured with Bootstrap framework.",
-    path: "https://getbootstrap.com/docs/4.1/getting-started/introduction/",
   },
 ];
 

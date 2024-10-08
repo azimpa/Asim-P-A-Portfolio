@@ -6,14 +6,13 @@ const workSlides = {
         {
           title: "ZIRA",
           path: "/ZIRA.png",
-          git: "https://github.com/azimpa/Zira.git",
-          live: "https://master.d3grfrlmr8mhoe.amplifyapp.com/",
+          git: "https://github.com/azimpa/Zira-Frontend.git",
+          git: "https://github.com/azimpa/Zira-Backend.git",
         },
         {
           title: "RIDE WITH ME",
           path: "/RWM.png",
           git: "https://github.com/azimpa/Ride-With-Me.git",
-          live: "https://rwm.asimpa.online/",
         },
         {
           title: "NETFLIX CLONE",
