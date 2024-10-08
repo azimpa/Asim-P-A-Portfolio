@@ -6,6 +6,7 @@ import {
   RiCss3Line,
   RiReactjsLine,
 } from "react-icons/ri";
+import { SiDjango } from "react-icons/si";
 import { TbBrandPython } from "react-icons/tb";
 import { TbBrandTailwind } from "react-icons/tb";
 import Link from "next/link";
@@ -27,11 +28,11 @@ const serviceData = [
     path: "https://react.dev/",
   },
   {
-    icon: <TbBrandPython />,
+    icon: <SiDjango />,
     title: "DJANGO",
     description:
-      "Rapid responsive website development ensured with Bootstrap framework.",
-    path: "https://getbootstrap.com/docs/4.1/getting-started/introduction/",
+      "Efficient web application development powered by Django's robust backend framework",
+    path: "https://www.djangoproject.com/",
   },
   {
     icon: <RiHtml5Line />,
